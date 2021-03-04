@@ -1,0 +1,16 @@
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.csprojAssemblyReference.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.AssemblyInfoInputs.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.AssemblyInfo.cs
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.csproj.CoreCompileInputs.cache
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\DsaArray.exe
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\DsaArray.deps.json
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\DsaArray.runtimeconfig.json
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\DsaArray.runtimeconfig.dev.json
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\DsaArray.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\ref\DsaArray.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\bin\Debug\net5.0\DsaArray.pdb
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\ref\DsaArray.dll
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.pdb
+C:\Users\vnaga\Videos\VSCODECSHARP\DsaArray\obj\Debug\net5.0\DsaArray.genruntimeconfig.cache
